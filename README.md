@@ -21,6 +21,8 @@ skeleton.save("skeleton.png")
 ```
 
 ### Result
-<span>
-  <src=
-</span>
+| ![](pose.png) | ![](skeleton.png) |
+|:--------------:|:--------------:|
+| **Input** | **Output** |
+
+
