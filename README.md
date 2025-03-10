@@ -19,3 +19,8 @@ input_image = Image.open("assets/dance.gif").convert("RGB")
 skeleton = detector(input_image, output_type="pil", include_hands=True, include_face=True)
 skeleton.save("skeleton.png")
 ```
+
+### Result
+<span>
+  <src=
+</span>
