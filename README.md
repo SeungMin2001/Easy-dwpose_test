@@ -21,7 +21,7 @@ skeleton.save("skeleton.png")
 ```
 
 ### Result
-| ![](pose.png) | ![](skeleton.png) |
+| ![](pose.png) | ![](skeletons.png) |
 |:--------------:|:--------------:|
 | **Input** | **Output** |
 
